@@ -359,9 +359,7 @@ export default function Home() {
           <a href="#home" className={styles.backToTop}>
             BACK TO TOP <ArrowRight size={14} />
           </a>
-          <span className={styles.copyright}>
-            © {new Date().getFullYear()} XHUKO
-          </span>
+          <span className={styles.copyright}>© 2026 XHUKO</span>
         </div>
       </footer>
 
