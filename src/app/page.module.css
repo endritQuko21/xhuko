@@ -336,6 +336,7 @@
   font-weight: 400;
   font-style: italic;
   letter-spacing: -0.105em;
+  color: var(--accent);
 }
 
 .heroIndex {
